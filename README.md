@@ -17,7 +17,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=326EFF&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+My+Discord+Account's" alt="Typing SVG" /></h1>
 
 [![Discord Profilim](https://lanyard.cnrad.dev/api/852757286375129128)](https://discord.com/users/852757286375129128)
-(https://lanyard.cnrad.dev/api/1134916849344204842)](https://discord.com/users/1134916849344204842)
+[![Discord Profilim](https://lanyard.cnrad.dev/api/1134916849344204842)](https://discord.com/users/1134916849344204842)
 
 
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=00ff88&background=69FF2000&center=true&vCenter=true&repeat=false&width=435&lines=+Lang's" alt="Typing SVG" /></h1>
