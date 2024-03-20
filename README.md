@@ -37,7 +37,7 @@ class CreateMan extends Savagery {
 let Savagery = new CreateMan()
 Savagery.createDay();
 ```
-<img src="https://komarev.com/ghpvc/?username=Wency&label=Ziyaretçi%20Sayısı&color=552b75" alt="darkcim" />
+<img src="https://komarev.com/ghpvc/?username=darkcim&label=Ziyaretçi%20Sayısı&color=552b75" alt="darkcim" />
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/1192164534396407898)](https://discord.com/users/1192164534396407898)
 
