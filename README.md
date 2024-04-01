@@ -47,4 +47,4 @@ Savagery.createDay();
 - ![](https://img.shields.io/badge/Code-Java-black?style=flat-square&logo=java&logoColor=white)
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
-[![https://spotify-github-profile.vercel.app/api/view.svg?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=8c00ff&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=8c00ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true)
