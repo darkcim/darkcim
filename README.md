@@ -16,20 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-<a href="https://github.com/acarfx" target="_blank">
+<a href="https://github.com/darkcim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/acwr_" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=acarfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="darkcim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkcim&show_icons=true&theme=dark&locale=en&layout=compact" alt="darkcim" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darkcim&show_icons=true&theme=dark&locale=en" alt="darkcim" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darkcim&theme=dark" alt="darkcim" /></p>
 
 </br>
-
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
