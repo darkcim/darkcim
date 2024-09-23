@@ -1,7 +1,6 @@
 # Hi I am Serkan Can.
 ![profile count](https://komarev.com/ghpvc/?username=darkcim&color=blue)&nbsp;
-[![GitHub Stats](https://img.shields.io/github/followers/alpcik?label=follow&style=social)](https://github.com/darkcim)&nbsp;
-<a href="https://instagram.com/klautaltidore"><img src="https://img.shields.io/badge/@klautaltidore-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/darkcim?label=follow&style=social)](https://github.com/darkcim)&nbsp;
 
 ## Langauges I Know:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
