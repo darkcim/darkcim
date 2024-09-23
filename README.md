@@ -3,9 +3,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkcim" alt="darkcim" /></a> </p>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcim&label=Profile%20views&color=1d1f20&style=flat-square" alt="darkcim" /> </p>
-<br>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
