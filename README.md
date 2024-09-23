@@ -2,9 +2,6 @@
 <h3 align="center">Herkese selam ben Serkan Can  19 yaşında bilgisayar mühendisliği okuyan bir öğrenciyim kendimi zamanla geliştiriyorum.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkcim" alt="Darkcim" /></a> </p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcim&label=Profile%20views&color=1d1f20&style=flat-square" alt="darkcim" /> </p>
-
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 
 <div align=center>
