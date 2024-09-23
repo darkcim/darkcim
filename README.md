@@ -1,8 +1,25 @@
-<h1 align="center">Hi 👋, I'm Serkan Can</h1>
-<h3 align="center">Herkese selam ben Serkan Can  19 yaşında bilgisayar mühendisliği okuyan bir öğrenciyim kendimi zamanla geliştiriyorum.</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darkcim" alt="Darkcim" /></a> </p>
+# Hi I am Serkan Can.
+![profile count](https://komarev.com/ghpvc/?username=darkcim&color=blue)&nbsp;
+[![GitHub Stats](https://img.shields.io/github/followers/alpcik?label=follow&style=social)](https://github.com/darkcim)&nbsp;
+<a href="https://instagram.com/klautaltidore"><img src="https://img.shields.io/badge/@klautaltidore-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+## Langauges I Know:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+<h3 align="left">:bar_chart: GitHub Stats:</h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkcim&show_icons=true&theme=dark&locale=en&layout=compact" alt="darkcim" /></p>
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api?username=darkcim&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=darkcim&theme=radical" />
+</p>
 
 <div align=center>
   <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
@@ -13,17 +30,3 @@
   <img src="https://profile-counter.glitch.me/darkcim/count.svg" />  
 </p>
 
-
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-<a href="https://github.com/darkcim" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</div> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkcim&show_icons=true&theme=dark&locale=en&layout=compact" alt="darkcim" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=darkcim&show_icons=true&theme=dark&locale=en" alt="darkcim" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=darkcim&theme=dark" alt="darkcim" /></p>
-
-</br>
