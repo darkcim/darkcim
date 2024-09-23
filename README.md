@@ -46,32 +46,3 @@
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/darkcim/count.svg" />  
 </p>
-   
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=darkcim&label=Ziyaretçi%20Sayısı&color=552b75" alt="darkcim" />
