@@ -31,6 +31,24 @@
 <br>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>  
+                                                                                    
+
+
+<br>
+  
+<div align=center>
+  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Passengerrr/count.svg" />  
+</p>
+   
+
+
 
 
 
