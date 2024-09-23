@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Acarfx</h1>
 <h3 align="center">A passionate backend developer and musician from Turkey.</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=acarfx" alt="acarfx" /></a> </p>
@@ -10,6 +7,15 @@
 <p align="left"> <a href="https://twitter.com/acarfx" target="blank"><img src="https://img.shields.io/twitter/follow/acarfx?logo=twitter&style=for-the-badge" alt="acarfx" /></a> </p>
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
+
+<div align=center>
+  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
+</div>
+    
+<!-- retro visitor counter -->  
+<p align="center" >    
+  <img src="https://profile-counter.glitch.me/darkcim/count.svg" />  
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,13 +40,3 @@
 </br>
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ccodzyfd7fmuwfzxc3hrouei74&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-  
-<div align=center>
-  <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
-</div>
-    
-<!-- retro visitor counter -->  
-<p align="center" >    
-  <img src="https://profile-counter.glitch.me/darkcim/count.svg" />  
-</p>
