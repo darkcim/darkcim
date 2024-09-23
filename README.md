@@ -5,12 +5,6 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcim&label=Profile%20views&color=1d1f20&style=flat-square" alt="darkcim" /> </p>
 <p align="left"> <a href="https://twitter.com/darkcim" target="blank"><img src="https://img.shields.io/twitter/follow/darkcim?logo=twitter&style=for-the-badge" alt="darkcim" /></a> </p>
-
-- Synl.io [Management Panel](https://synl.io/) (End of 2023 December)
-- ECBS [Entegre Çevre Bilgi Sistemi](https://ecbs.cevre.gov.tr/)
-- V.VİSKOZ [Company Backend](https://www.vimpi.com.tr/)
-- Portfolio [https://acarfx.com.tr/](https://acarfx.com.tr/)
-- Spotify [https://sptfy.com/acarfx](https://sptfy.com/acarfx)
 <br>
 
 <p  align="center">
