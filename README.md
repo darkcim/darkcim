@@ -4,7 +4,6 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkcim&label=Profile%20views&color=1d1f20&style=flat-square" alt="darkcim" /> </p>
-<p align="left"> <a href="https://twitter.com/darkcim" target="blank"><img src="https://img.shields.io/twitter/follow/darkcim?logo=twitter&style=for-the-badge" alt="darkcim" /></a> </p>
 <br>
 
 <p  align="center">
