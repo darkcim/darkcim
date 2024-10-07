@@ -24,7 +24,7 @@
   <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
 </div>
 
-<div align=center> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true)</div>
+<div align=center> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true) </div>
 
 <!-- retro visitor counter -->  
 <p align="center" >    
