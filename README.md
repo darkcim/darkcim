@@ -29,3 +29,4 @@
   <img src="https://profile-counter.glitch.me/darkcim/count.svg" />  
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true)
