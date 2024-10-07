@@ -1,6 +1,7 @@
 # Hi I am Serkan Can.
 ![profile count](https://komarev.com/ghpvc/?username=darkcim&color=blue)&nbsp;
 [![GitHub Stats](https://img.shields.io/github/followers/darkcim?label=follow&style=social)](https://github.com/darkcim)&nbsp;
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true)
 
 ## Langauges I Know:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -23,8 +24,6 @@
 <div align=center>
   <h3><b>📍 Profilime Kaç Kişi Baktı</b></h3>
 </div>
-
-<div align=center> [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=px2ggscghrkjw9jyq4dciovqh&redirect=true)
 
 <!-- retro visitor counter -->  
 <p align="center" >    
